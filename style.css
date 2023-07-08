@@ -1,0 +1,264 @@
+
+
+@media (max-width: 750px) {
+    .navbar-brand{
+        margin-left: 50px;
+    }
+
+}
+@media (max-width: 600px) {
+    div.greet{
+        font-size: 30px;
+        text-align: center;
+    }
+    div.name{
+        font-size: 50px;
+        text-align: center;
+    }  
+    div.prof-content{
+        font-size: 17px;
+        text-align: center;
+    }
+    div#btn-name{
+        margin-left: 105px;
+    }
+    div#rate{
+        margin-top: 50px;
+        margin-left:0;
+    }
+    div#min-cont{
+        font-size: 11px;
+    }
+    .proj{
+    margin-left: 0;
+    }
+    .proj1{
+     margin-left: 0;
+    }
+    .proj2{
+    margin-left: 0;
+    }
+    div.title-ser{
+        margin-top: 20px;
+        padding: 0 70px 0 70px;
+        text-align: center;
+        font-size: 30px;
+    }
+    #min-ser{
+    margin-left: 15px;
+    height:115px ;
+    width: 124px;
+    margin-top: 60px;
+    }
+    div.ser{
+    font-size: 20px;
+    text-align: center;
+    font-weight:600;
+    }
+    div#min-link1{
+        padding-left:47px ;
+        text-decoration: none;
+        font-weight:600;
+    }
+    div#min-link2{
+        padding-left:47px ;
+        text-decoration: none;
+        font-weight:600;
+    }
+    div#min-link3{
+        padding-left:47px ;
+        text-decoration: none;
+        font-weight:600;;
+    }
+    div#min-link4{
+        padding-left:45px ;
+        text-decoration: none;
+        font-weight:600;
+    }
+    div.title-latest{
+        font-size: 30px;
+        text-align: center;
+        margin-top: 40px;
+        font-weight:700;
+    }
+    #min-client{
+        width:70px
+    }
+    div#test{
+margin:60px 10px;
+    }
+    #text{
+        font-size: 13px;
+    }
+    #text1{
+font-size: 13px;
+    }
+    .design{
+        width: 100px;
+        padding-right: 3000px;     
+    }
+    div.title-test{
+        font-size: 30px;
+        text-align: center;
+        margin-top: 40px;
+        font-weight:700;
+    }
+    div.bg-work{
+        background-image: url("Image/work-back.jpg");
+        height: 320px;
+        position: relative;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+            }
+
+    div#btn-work{
+        font-weight: 600;
+        font-size: 20px;
+        padding: 5px 20px;
+        margin-left:130px;
+    }
+
+div#work-content{ 
+    padding: 10px 5px;
+    color:white;
+    font-size: 15px;
+}
+div.title-work{
+    font-size: 33px;
+    text-align: center;
+    margin-top: 40px;
+    font-weight:700;
+}
+div#min-footer{
+font-size: 10px;
+}
+div#min-footer1{
+font-size: 10px;
+}
+div#min-footer2{
+ font-size: 10px;
+ }
+ div#min-footer3{
+    font-size: 10px;
+    }
+}
+
+.greet{
+    font-size: 50px;
+}
+.name{
+    font-size: 70px;
+    color: blue;
+}  
+.prof-content{
+    font-size: 20px;
+}
+#min-link1{
+ padding-left: 115px;
+ text-decoration: none;
+}
+#min-link2{
+    padding-left: 115px;
+    text-decoration: none;
+   }
+#min-link3{
+    padding-left: 115px;
+    text-decoration: none;
+   }
+#min-link4{
+    padding-left: 115px;
+    text-decoration: none;
+   }
+#btn-name{
+    background-color: blue;
+}  
+#btn-name a{
+    color: white;
+}
+#rate{
+    margin-left:80px;
+    margin-top:100px;
+}
+.proj{
+    margin-left: 30px;
+    font-weight:700;
+}
+.proj1{
+    margin-left: 25px;
+    font-weight:700;
+}
+.proj2{
+    margin-left: 15px;
+    font-weight:700;
+}
+.img-service{
+    margin-left: 60px;
+    height:175px ;
+    width: 184px;
+    margin-top: 60px;
+}
+.ser{
+    font-size: 30px;
+    text-align: center;
+    font-weight:600;
+}
+.link-ser{
+    margin-right: 50px;
+    text-decoration: none; 
+    font-weight:600; 
+}
+.title-ser{
+    margin-top: 200px;
+     font-weight:800;
+      font-size: 55px;
+      text-align: center;
+}
+.latest p{
+font-size: 17px;
+}
+.title-latest{
+    margin-top: 200px;
+     font-weight:800;
+      font-size: 55px;
+      text-align: center;
+}
+.title-test{
+    margin-top: 100px;
+     font-weight:800;
+      font-size: 55px;
+      text-align: center;
+}
+.design{
+    position: absolute;
+    left: 1210px;
+    bottom: 215px;
+}
+.title-work{
+    color: white;
+    padding-top:40px;
+    margin-top: 100px;
+     font-weight:700;
+      font-size: 55px;
+      text-align: center;
+}
+.bg-work{
+    background-image: url("Image/work-back.jpg");
+    height: 440px;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+        }
+
+#work-content{ 
+    color: white;
+padding: 10px 450px;
+}
+#btn-work{
+    font-weight: 600;
+    font-size: 20px;
+    padding: 15px 30px;
+    margin-left: 570px;
+
+}
